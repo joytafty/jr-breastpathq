@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<session software="PathCore Session Printer" version="0.1.0">
+    <image identifier="Y:\histology\CCSRI_Project\PostTreatment\ExtractedNucleiROIs\136_Region 5_crop.tif">
+        <overlays>
+            <graphic type="Point" name="Region 6" description="ILC">
+                <pen color="#55007fff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>514,18</point>
+                    <point>89,263</point>
+                    <point>68,185</point>
+                    <point>365,177</point>
+                    <point>300,333</point>
+                    <point>435,312</point>
+                    <point>500,364</point>
+                    <point>564,341</point>
+                    <point>502,304</point>
+                    <point>101,309</point>
+                    <point>353,133</point>
+                </point-list>
+            </graphic>
+        </overlays>
+</session>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<session software="PathCore Session Printer" version="0.1.0">
+<image identifier="134_Region 1_crop.tif">
+<dimensions>440,440</dimensions>
+<pixel-size units="um">1.000000,1.000000</pixel-size>
+        <overlays>
+            <graphic type="Point" name="Region 2" description="ILC">
+                <pen color="#55007fff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>283,39</point>
+                    <point>211,99</point>
+                    <point>520,72</point>
+                    <point>488,78</point>
+                    <point>607,250</point>
+                    <point>514,220</point>
+                    <point>482,206</point>
+                    <point>416,106</point>
+                    <point>316,185</point>
+                    <point>265,215</point>
+                    <point>358,328</point>
+                    <point>263,297</point>
+                    <point>318,393</point>
+                    <point>180,423</point>
+                    <point>205,302</point>
+                    <point>105,264</point>
+                    <point>12,209</point>
+                    <point>41,297</point>
+                </point-list>
+            </graphic>
+        </overlays>
+</image>
+</session>

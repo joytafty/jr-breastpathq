@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<session software="PathCore Session Printer" version="0.1.0">
+<image identifier="22_Region 5_crop.tif">
+<dimensions>456,456</dimensions>
+<pixel-size units="um">1.000000,1.000000</pixel-size>
+        <overlays>
+            <graphic type="point" name="Region 6" description="IDC">
+<attributes/>
+                <pen color="#005500ff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>247,86</point>
+                    <point>95,224</point>
+                    <point>140,302</point>
+                    <point>149,323</point>
+                    <point>153,299</point>
+                    <point>150,278</point>
+                    <point>178,267</point>
+                    <point>170,252</point>
+                    <point>181,239</point>
+                    <point>191,215</point>
+                    <point>285,89</point>
+                    <point>280,79</point>
+                    <point>262,88</point>
+                    <point>271,105</point>
+                    <point>258,108</point>
+                    <point>242,115</point>
+                    <point>247,130</point>
+                    <point>273,133</point>
+                    <point>282,148</point>
+                    <point>284,125</point>
+                    <point>296,110</point>
+                    <point>271,183</point>
+                    <point>270,166</point>
+                    <point>260,148</point>
+                    <point>242,145</point>
+                    <point>224,168</point>
+                    <point>233,174</point>
+                    <point>256,193</point>
+                    <point>266,209</point>
+                    <point>245,215</point>
+                    <point>236,203</point>
+                    <point>254,239</point>
+                    <point>261,226</point>
+                    <point>242,232</point>
+                    <point>239,249</point>
+                    <point>223,254</point>
+                    <point>230,277</point>
+                    <point>226,293</point>
+                    <point>198,335</point>
+                    <point>186,321</point>
+                    <point>198,306</point>
+                    <point>201,293</point>
+                    <point>165,293</point>
+                    <point>206,211</point>
+                    <point>247,165</point>
+                    <point>218,309</point>
+                </point-list>
+            </graphic>
+            <graphic type="point" name="Region 7" description="TIL-S">
+<attributes/>
+                <pen color="#0000ffff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>76,423</point>
+                    <point>29,421</point>
+                    <point>121,448</point>
+                    <point>109,392</point>
+                    <point>148,389</point>
+                    <point>87,256</point>
+                    <point>152,174</point>
+                    <point>141,192</point>
+                    <point>36,29</point>
+                    <point>117,17</point>
+                    <point>151,16</point>
+                    <point>206,41</point>
+                    <point>257,37</point>
+                    <point>246,22</point>
+                    <point>408,74</point>
+                    <point>411,190</point>
+                    <point>416,182</point>
+                    <point>284,357</point>
+                    <point>271,289</point>
+                    <point>324,276</point>
+                    <point>310,223</point>
+                    <point>325,133</point>
+                    <point>255,367</point>
+                    <point>259,396</point>
+                    <point>441,435</point>
+                    <point>445,404</point>
+                    <point>434,408</point>
+                    <point>323,260</point>
+                    <point>146,409</point>
+                </point-list>
+            </graphic>
+        </overlays>
+</image>
+</session>

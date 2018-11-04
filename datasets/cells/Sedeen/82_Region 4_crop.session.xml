@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<session software="PathCore Session Printer" version="0.1.0">
+<image identifier="82_Region 4_crop.tif">
+<dimensions>470,470</dimensions>
+<pixel-size units="um">1.000000,1.000000</pixel-size>
+        <overlays>
+            <graphic type="point" name="Region 5" description="IDC">
+<attributes/>
+                <pen color="#005500ff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>134,69</point>
+                    <point>145,115</point>
+                    <point>123,112</point>
+                    <point>168,135</point>
+                    <point>138,151</point>
+                    <point>558,253</point>
+                </point-list>
+            </graphic>
+            <graphic type="point" name="Region 6" description="TIL-S">
+<attributes/>
+                <pen color="#000000ff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>24,231</point>
+                    <point>175,248</point>
+                    <point>495,36</point>
+                    <point>474,29</point>
+                    <point>393,86</point>
+                    <point>471,172</point>
+                    <point>321,244</point>
+                    <point>326,292</point>
+                    <point>397,302</point>
+                    <point>176,323</point>
+                    <point>240,357</point>
+                    <point>243,341</point>
+                    <point>319,423</point>
+                    <point>330,438</point>
+                    <point>345,399</point>
+                    <point>362,391</point>
+                    <point>368,379</point>
+                    <point>415,465</point>
+                    <point>438,463</point>
+                    <point>493,278</point>
+                    <point>481,286</point>
+                    <point>506,281</point>
+                    <point>523,261</point>
+                    <point>600,455</point>
+                </point-list>
+            </graphic>
+        </overlays>
+</image>
+</session>

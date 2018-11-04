@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<session software="PathCore Session Printer" version="0.1.0">
+    <image identifier="Y:\histology\CCSRI_Project\PostTreatment\ExtractedNucleiROIs\6_Region 4_crop.tif">
+        <overlays>
+            <graphic type="point" name="Region 5" description="IDC">
+                <pen color="#005500ff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>48,15</point>
+                    <point>93,28</point>
+                    <point>155,21</point>
+                    <point>13,287</point>
+                    <point>42,388</point>
+                    <point>74,378</point>
+                    <point>110,205</point>
+                    <point>177,240</point>
+                    <point>222,253</point>
+                    <point>369,170</point>
+                    <point>423,142</point>
+                    <point>430,170</point>
+                    <point>464,127</point>
+                    <point>508,130</point>
+                    <point>584,257</point>
+                    <point>528,275</point>
+                    <point>583,402</point>
+                    <point>620,371</point>
+                    <point>583,125</point>
+                </point-list>
+            </graphic>
+            <graphic type="point" name="Region 6" description="TIL-S">
+                <pen color="#0000ffff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>585,56</point>
+                    <point>567,34</point>
+                    <point>558,46</point>
+                    <point>411,72</point>
+                    <point>401,30</point>
+                    <point>377,38</point>
+                    <point>375,25</point>
+                    <point>365,46</point>
+                    <point>347,81</point>
+                    <point>337,61</point>
+                    <point>306,16</point>
+                    <point>285,38</point>
+                    <point>311,106</point>
+                    <point>272,101</point>
+                    <point>249,100</point>
+                    <point>296,167</point>
+                    <point>308,203</point>
+                    <point>272,200</point>
+                    <point>315,384</point>
+                    <point>323,362</point>
+                    <point>339,374</point>
+                    <point>413,340</point>
+                    <point>469,353</point>
+                    <point>400,317</point>
+                    <point>398,382</point>
+                    <point>406,393</point>
+                    <point>416,396</point>
+                    <point>412,379</point>
+                    <point>309,368</point>
+                    <point>265,366</point>
+                    <point>282,362</point>
+                    <point>296,354</point>
+                    <point>307,342</point>
+                    <point>321,336</point>
+                    <point>335,331</point>
+                    <point>331,314</point>
+                    <point>162,404</point>
+                    <point>191,397</point>
+                    <point>158,379</point>
+                    <point>152,146</point>
+                    <point>256,205</point>
+                    <point>245,68</point>
+                    <point>429,235</point>
+                </point-list>
+            </graphic>
+            <graphic type="rectangle" name="Region 51" description="Cellularity: 50(%)">
+                <pen color="#ffff00ff" width="3" style="Solid"/>
+                <font>Arial;12</font>
+                <point-list>
+                    <point>143,376</point>
+                </point-list>
+            </graphic>
+            <graphic type="rectangle" name="Region 63" description="Cellularity: 10(%)">
+                <pen color="#0000ffff" width="3" style="Solid"/>
+                <font>Arial;12</font>
+                <point-list>
+                    <point>70,26</point>
+                </point-list>
+            </graphic>
+        </overlays>
+</session>

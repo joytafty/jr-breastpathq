@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<session software="PathCore Session Printer" version="0.1.0">
+    <image identifier="Y:\histology\CCSRI_Project\PostTreatment\ExtractedNucleiROIs\34_Region 12_crop.tif">
+        <overlays>
+            <graphic type="point" name="Region 13" description="normal">
+                <pen color="#ff0000ff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>246,107</point>
+                    <point>229,125</point>
+                    <point>230,146</point>
+                    <point>214,139</point>
+                    <point>197,118</point>
+                    <point>197,139</point>
+                    <point>181,144</point>
+                    <point>162,165</point>
+                    <point>150,185</point>
+                    <point>149,196</point>
+                    <point>145,226</point>
+                    <point>140,241</point>
+                    <point>135,273</point>
+                    <point>137,285</point>
+                    <point>147,296</point>
+                    <point>146,311</point>
+                    <point>164,318</point>
+                    <point>158,335</point>
+                    <point>192,353</point>
+                    <point>207,349</point>
+                    <point>173,343</point>
+                    <point>229,355</point>
+                    <point>244,344</point>
+                    <point>260,346</point>
+                    <point>257,328</point>
+                    <point>248,319</point>
+                    <point>248,305</point>
+                    <point>275,324</point>
+                    <point>303,331</point>
+                    <point>304,312</point>
+                    <point>295,322</point>
+                    <point>289,301</point>
+                    <point>312,287</point>
+                    <point>273,286</point>
+                    <point>260,271</point>
+                    <point>255,256</point>
+                    <point>319,263</point>
+                    <point>322,238</point>
+                    <point>311,221</point>
+                    <point>273,233</point>
+                    <point>271,211</point>
+                    <point>283,197</point>
+                    <point>314,203</point>
+                    <point>308,184</point>
+                    <point>326,181</point>
+                    <point>341,178</point>
+                    <point>337,149</point>
+                    <point>326,166</point>
+                    <point>324,134</point>
+                    <point>316,141</point>
+                    <point>290,122</point>
+                    <point>290,147</point>
+                    <point>268,109</point>
+                    <point>241,221</point>
+                    <point>257,225</point>
+                    <point>233,207</point>
+                    <point>218,193</point>
+                    <point>232,236</point>
+                    <point>194,230</point>
+                    <point>179,243</point>
+                    <point>167,233</point>
+                </point-list>
+            </graphic>
+        </overlays>
+</session>

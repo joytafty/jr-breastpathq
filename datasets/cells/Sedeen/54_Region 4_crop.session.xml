@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<session software="PathCore Session Printer" version="0.1.0">
+<image identifier="54_Region 4_crop.tif">
+<dimensions>457,457</dimensions>
+<pixel-size units="um">1.000000,1.000000</pixel-size>
+        <overlays>
+            <graphic type="point" name="Region 5" description="IDC">
+<attributes/>
+                <pen color="#005500ff" width="4" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>102,29</point>
+                    <point>57,347</point>
+                    <point>286,403</point>
+                    <point>285,379</point>
+                    <point>287,354</point>
+                    <point>270,346</point>
+                    <point>269,335</point>
+                    <point>265,264</point>
+                    <point>287,255</point>
+                    <point>375,319</point>
+                    <point>354,316</point>
+                    <point>361,424</point>
+                    <point>365,390</point>
+                    <point>308,227</point>
+                    <point>312,206</point>
+                    <point>323,190</point>
+                    <point>331,166</point>
+                    <point>340,152</point>
+                    <point>346,142</point>
+                    <point>348,124</point>
+                    <point>353,106</point>
+                    <point>331,90</point>
+                    <point>318,121</point>
+                    <point>313,139</point>
+                    <point>299,162</point>
+                    <point>289,183</point>
+                    <point>288,193</point>
+                    <point>688,249</point>
+                    <point>681,263</point>
+                    <point>670,235</point>
+                    <point>496,433</point>
+                    <point>582,12</point>
+                    <point>315,266</point>
+                </point-list>
+            </graphic>
+            <graphic type="point" name="Region 6" description="TIL-S">
+<attributes/>
+                <pen color="#000000ff" width="4" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>202,102</point>
+                    <point>274,76</point>
+                    <point>516,397</point>
+                    <point>637,305</point>
+                    <point>595,439</point>
+                    <point>427,440</point>
+                    <point>94,329</point>
+                    <point>160,418</point>
+                    <point>13,228</point>
+                    <point>6,452</point>
+                    <point>130,239</point>
+                </point-list>
+            </graphic>
+            <graphic type="point" name="Region 7" description="TIL-E">
+<attributes/>
+                <pen color="#00ff7fff" width="4" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>594,309</point>
+                    <point>354,378</point>
+                    <point>292,207</point>
+                </point-list>
+            </graphic>
+            <graphic type="point" name="Region 8" description="IDC">
+<attributes/>
+                <pen color="#005500ff" width="4" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>625,311</point>
+                    <point>603,323</point>
+                    <point>388,89</point>
+                    <point>414,43</point>
+                    <point>420,66</point>
+                    <point>419,90</point>
+                    <point>396,108</point>
+                    <point>379,116</point>
+                    <point>403,130</point>
+                    <point>404,143</point>
+                    <point>378,147</point>
+                    <point>387,171</point>
+                    <point>84,361</point>
+                    <point>349,442</point>
+                </point-list>
+            </graphic>
+            <graphic type="point" name="Region 9" description="TIL-E">
+<attributes/>
+                <pen color="#00ff7fff" width="4" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>491,405</point>
+                    <point>363,195</point>
+                    <point>352,406</point>
+                </point-list>
+            </graphic>
+        </overlays>
+</image>
+</session>

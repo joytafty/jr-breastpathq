@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<session software="PathCore Session Printer" version="0.1.0">
+    <image identifier="Y:\histology\CCSRI_Project\PostTreatment\ExtractedNucleiROIs\116_Region 7_crop.tif">
+        <overlays>
+            <graphic type="point" name="Region 8" description="IDC">
+                <pen color="#005500ff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>57,19</point>
+                    <point>24,179</point>
+                    <point>138,130</point>
+                    <point>151,218</point>
+                    <point>156,196</point>
+                    <point>177,251</point>
+                    <point>133,328</point>
+                    <point>48,343</point>
+                    <point>316,398</point>
+                    <point>278,365</point>
+                    <point>270,391</point>
+                </point-list>
+            </graphic>
+            <graphic type="point" name="Region 9" description="normal">
+                <pen color="#ff0000ff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>306,91</point>
+                    <point>308,111</point>
+                    <point>294,100</point>
+                    <point>359,68</point>
+                    <point>377,45</point>
+                    <point>418,81</point>
+                    <point>421,100</point>
+                    <point>413,104</point>
+                    <point>403,94</point>
+                    <point>414,120</point>
+                    <point>399,108</point>
+                    <point>384,113</point>
+                    <point>389,133</point>
+                    <point>362,111</point>
+                    <point>372,121</point>
+                    <point>407,138</point>
+                    <point>425,142</point>
+                    <point>417,153</point>
+                    <point>439,162</point>
+                    <point>460,166</point>
+                    <point>481,92</point>
+                    <point>499,99</point>
+                    <point>525,133</point>
+                    <point>524,156</point>
+                    <point>516,173</point>
+                    <point>511,164</point>
+                    <point>504,178</point>
+                    <point>488,180</point>
+                    <point>491,164</point>
+                    <point>477,151</point>
+                    <point>470,185</point>
+                    <point>483,195</point>
+                    <point>459,189</point>
+                    <point>443,172</point>
+                    <point>443,185</point>
+                    <point>82,401</point>
+                    <point>68,387</point>
+                    <point>61,397</point>
+                    <point>73,404</point>
+                    <point>24,382</point>
+                    <point>18,368</point>
+                    <point>6,388</point>
+                    <point>18,403</point>
+                    <point>6,403</point>
+                    <point>30,371</point>
+                    <point>5,311</point>
+                    <point>466,345</point>
+                    <point>441,357</point>
+                    <point>515,344</point>
+                    <point>502,327</point>
+                    <point>449,375</point>
+                    <point>432,376</point>
+                    <point>536,188</point>
+                    <point>520,190</point>
+                    <point>533,201</point>
+                </point-list>
+            </graphic>
+            <graphic type="point" name="Region 10" description="TIL-S">
+                <pen color="#000000ff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>460,309</point>
+                    <point>157,360</point>
+                    <point>35,142</point>
+                    <point>280,156</point>
+                </point-list>
+            </graphic>
+        </overlays>
+</session>

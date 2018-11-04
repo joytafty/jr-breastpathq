@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<session software="PathCore Session Printer" version="0.1.0">
+<image identifier="105_Region 9_crop.tif">
+<dimensions>454,454</dimensions>
+<pixel-size units="um">1.000000,1.000000</pixel-size>
+        <overlays>
+            <graphic type="point" name="Region 10" description="IDC">
+<attributes/>
+                <pen color="#005500ff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>270,74</point>
+                    <point>292,71</point>
+                    <point>313,62</point>
+                    <point>355,51</point>
+                    <point>407,6</point>
+                    <point>357,118</point>
+                    <point>349,140</point>
+                    <point>319,111</point>
+                    <point>290,103</point>
+                    <point>331,160</point>
+                    <point>378,174</point>
+                    <point>358,183</point>
+                    <point>357,208</point>
+                    <point>374,227</point>
+                    <point>357,239</point>
+                    <point>342,227</point>
+                    <point>320,239</point>
+                    <point>340,271</point>
+                    <point>324,277</point>
+                    <point>337,309</point>
+                    <point>357,303</point>
+                    <point>383,277</point>
+                    <point>374,391</point>
+                    <point>418,259</point>
+                    <point>419,208</point>
+                    <point>410,184</point>
+                    <point>439,143</point>
+                    <point>347,84</point>
+                    <point>454,45</point>
+                    <point>453,105</point>
+                    <point>519,146</point>
+                    <point>535,187</point>
+                    <point>552,226</point>
+                    <point>509,267</point>
+                    <point>495,318</point>
+                    <point>553,283</point>
+                    <point>564,274</point>
+                    <point>576,265</point>
+                    <point>586,181</point>
+                    <point>613,173</point>
+                    <point>620,159</point>
+                    <point>616,142</point>
+                    <point>626,281</point>
+                    <point>523,96</point>
+                    <point>502,99</point>
+                    <point>518,51</point>
+                    <point>471,44</point>
+                    <point>379,16</point>
+                    <point>557,48</point>
+                    <point>539,29</point>
+                    <point>581,26</point>
+                    <point>598,112</point>
+                    <point>566,109</point>
+                    <point>657,274</point>
+                    <point>675,351</point>
+                    <point>667,333</point>
+                    <point>669,405</point>
+                    <point>642,398</point>
+                    <point>630,379</point>
+                    <point>667,369</point>
+                    <point>577,414</point>
+                    <point>552,411</point>
+                    <point>638,445</point>
+                    <point>574,379</point>
+                    <point>548,364</point>
+                    <point>535,343</point>
+                    <point>550,335</point>
+                </point-list>
+            </graphic>
+            <graphic type="point" name="Region 11" description="TIL-S">
+<attributes/>
+                <pen color="#000000ff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>17,74</point>
+                    <point>9,96</point>
+                    <point>34,89</point>
+                    <point>45,112</point>
+                    <point>80,123</point>
+                    <point>88,134</point>
+                    <point>106,146</point>
+                    <point>163,122</point>
+                    <point>175,71</point>
+                    <point>3,304</point>
+                    <point>111,316</point>
+                    <point>48,395</point>
+                    <point>148,406</point>
+                    <point>161,394</point>
+                    <point>182,404</point>
+                    <point>202,378</point>
+                    <point>203,368</point>
+                    <point>269,353</point>
+                    <point>332,381</point>
+                    <point>233,234</point>
+                    <point>236,259</point>
+                    <point>258,189</point>
+                    <point>121,58</point>
+                    <point>159,316</point>
+                    <point>169,321</point>
+                    <point>115,212</point>
+                    <point>106,37</point>
+                    <point>97,69</point>
+                    <point>106,77</point>
+                </point-list>
+            </graphic>
+            <graphic type="point" name="Region 12" description="IDC">
+<attributes/>
+                <pen color="#005500ff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>328,396</point>
+                    <point>607,404</point>
+                    <point>580,211</point>
+                    <point>580,85</point>
+                    <point>584,44</point>
+                    <point>474,191</point>
+                    <point>480,167</point>
+                    <point>632,242</point>
+                </point-list>
+            </graphic>
+        </overlays>
+</image>
+</session>

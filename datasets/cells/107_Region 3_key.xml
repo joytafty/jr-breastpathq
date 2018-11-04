@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<session software="PathCore Session Printer" version="0.1.0">
+    <image identifier="Y:\histology\CCSRI_Project\PostTreatment\ExtractedNucleiROIs\107_Region 3_crop.tif">
+        <overlays>
+            <graphic type="point" name="Region 4" description="IDC">
+                <pen color="#005500ff" width="10" style="Solid"/>
+                <font>MS Shell Dlg 2;8</font>
+                <point-list>
+                    <point>185,20</point>
+                    <point>202,9</point>
+                    <point>221,11</point>
+                    <point>237,30</point>
+                    <point>240,55</point>
+                    <point>220,65</point>
+                    <point>200,59</point>
+                    <point>273,101</point>
+                    <point>253,113</point>
+                    <point>239,122</point>
+                    <point>257,148</point>
+                    <point>246,163</point>
+                    <point>240,152</point>
+                    <point>218,168</point>
+                    <point>210,206</point>
+                    <point>209,221</point>
+                    <point>189,236</point>
+                    <point>286,213</point>
+                    <point>224,285</point>
+                    <point>199,279</point>
+                    <point>170,269</point>
+                    <point>168,298</point>
+                    <point>185,367</point>
+                    <point>205,353</point>
+                    <point>22,233</point>
+                    <point>16,213</point>
+                    <point>14,202</point>
+                    <point>17,318</point>
+                    <point>10,307</point>
+                    <point>45,329</point>
+                    <point>48,316</point>
+                    <point>488,271</point>
+                    <point>453,289</point>
+                    <point>447,297</point>
+                    <point>440,344</point>
+                    <point>468,325</point>
+                    <point>458,314</point>
+                </point-list>
+            </graphic>
+        </overlays>
+</session>

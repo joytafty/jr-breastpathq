@@ -1,0 +1,23 @@
+############################
+
+Description of nuclei data
+
+############################
+
+The method used to estimate cellularity described in Peikari et al, Cytometry A. 2017 Nov;91(11):1078-1087. doi: 10.1002/cyto.a.23244 required an annotated set of nuclei figures in order to train a classifier to differentiate between normal,  and malignant nuclei and lymphocytes. This training data was also used to train a fully convolutional neural network to classify nuclei in Bidart et al,  Proc. SPIE 10581, Medical Imaging 2018: Digital Pathology, 105810O; doi: 10.1117/12.2292815.
+
+This training data is made available here for anyone wishing to carry out nuclei classification as part of their analysis pipeline. The use of this data in the challenge is optional.
+
+In a subset of WSIs, small rectangular ROIs were defined and an expert pathologist attempted to label all nuclei figures within each of these ROIs. This was done using the Pathcore Sedeen viewer and the annotations comprise of a set of points defined by clicking on the centroid of the individual nuclei. If the pathologist was unsure about the correct classification for a particular cell, for example because the nucleus was out of plane, then no point was placed. Each point set was given a descriptive label; a list of possible labels is given below. For the purposes of classification, these were grouped into 3 nuclei types: Lymphocyte, Normal Epithelial and Malignant Epithelial.
+
+Lymphocyte: TIL-E, TIL-S
+Normal Epithelial: normal, UDH, ADH, 
+Malignant Epithelial: IDC, ILC, Muc C, DCIS 1, DCIS 2, DCIS 3, MC- E, MC - C, MC - M
+
+The Sedeen viewer can be used to view the cropped images and the annotations which are saved in the Sedeen subdirectory. This subdirectory *must* be present in the same directory which contains the cropped images in order for the software to be able to load them in automatically.
+
+In order to simplfy the workflow in Matlab and python, the rectangular ROIs together with the point annotations were cropped from the WSIs using the ROICropper plugin to the Sedeen viewer (https://github.com/sedeen-piip-plugins/RoiCropper). In this directory the filenames  *_crop.tif are the croped H&E images, the *_mask.tif images show the points marked by the pathologist and the *_key.xml files contain the point coordinates and the label information. 
+
+
+
+

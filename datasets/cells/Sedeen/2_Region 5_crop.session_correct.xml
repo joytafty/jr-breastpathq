@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<session software="PathCore Session Printer" version="0.2.0">
+    <image identifier="2_Region 5_crop.tif">
+        <dimensions>546,467</dimensions>
+        <pixel-size units="um">1.000000,1.000000</pixel-size>
+        <transform>
+            <translation units="um">0.000000,0.000000</translation>
+            <center units="um">273.000000,233.500000</center>
+            <rotation unit="degrees">0.000000</rotation>
+            <scale>1.000000,1.000000</scale>
+        </transform>
+        <overlays name="">
+            <attributes/>
+            <graphic type="point" name="Region 2" description="">
+                <attributes/>
+                <pen color="#00ff00ff" width="4" style="Solid"/>
+                <font>Arial;12</font>
+                <point-list>
+                    <point>204.000000,331.000000</point>
+                    <point>210.000000,299.000000</point>
+                    <point>236.000000,267.000000</point>
+                    <point>321.000000,314.000000</point>
+                </point-list>
+            </graphic>
+            <graphic type="point" name="Region 1" description="">
+                <attributes/>
+                <pen color="#ffff00ff" width="4" style="Solid"/>
+                <font>Arial;12</font>
+                <point-list>
+                    <point>52.000000,28.000000</point>
+                    <point>81.000000,82.000000</point>
+                    <point>105.000000,88.000000</point>
+                    <point>47.000000,193.000000</point>
+                    <point>63.000000,186.000000</point>
+                </point-list>
+            </graphic>
+        </overlays>
+    </image>
+</session>
