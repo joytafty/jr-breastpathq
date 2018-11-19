@@ -14,6 +14,7 @@ warnings.filterwarnings("ignore")
 def chw_to_hwc(img):
     return np.transpose(img, axes=[1, 2, 0])
 
+
 def visualize_learning(model, dataloader):
     for data in tqdm(dataloader):
         data, target = Variable(data["image"], volatile=True), Variable(data["mask"])
