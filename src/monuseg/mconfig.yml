@@ -1,0 +1,19 @@
+data:
+  dataset_path: '../datasets/MoNuSegTraining'
+  image_path: '../datasets/MoNuSegTraining/TissueImages'
+  mask_path: '../datasets/MoNuSegTraining/LabeledNucImages'
+  crop_size: 256
+  crop_padding: 4
+model:
+  n_down: 3
+  n_up: 3
+  pool_size: 2
+  kernel_size: 3
+training:
+  model_output_path: '../MoNuSegTraining/torch_models/'
+  batch_size: 32
+  epoches: 500
+  checkpoint_interval: 100
+  lr: 0.00001
+
+
