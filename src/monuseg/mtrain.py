@@ -8,6 +8,9 @@ from .mutils import visualize_learning
 import tqdm
 import numpy as np
 import yaml
+# Ignore warnings
+import warnings
+warnings.filterwarnings("ignore")
 
 
 def weights_init(model):
@@ -43,9 +46,6 @@ def test_unet(model, val_dataloader, criterion):
     test_loss /= len(val_dataloader.dataset)
     print("Average Loss: ", test_loss)
 
-# Ignore warnings
-import warnings
-warnings.filterwarnings("ignore")
 
 with open('./mconfig.yml', 'r') as f:
     config = yaml.load(f)
