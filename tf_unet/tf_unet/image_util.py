@@ -240,11 +240,11 @@ class MonuSegDataProvider(BaseDataProvider):
     def _next_data(self):
         self._cylce_file()
         image_file = self.image_list[self.file_idx]
-        mask_file = self.mask_list[self.file_idx]
+        mask_file = image_file.replace(self.image_path, self.mask_path).replace(".tif", ".png")
 
         img = cv2.imread(image_file)
         mask_gray = np.array(
-            PIL.Image.fromarray(cv2.imread(mask_list[0])).convert('L')
+            PIL.Image.fromarray(cv2.imread(mask_file)).convert('L')
         )
         #         mask0 = (mask_gray <= mask_gray.min()).astype(int)
         #         mask1 = (mask_gray > mask_gray.min()).astype(int)
@@ -260,5 +260,4 @@ class MonuSegDataProvider(BaseDataProvider):
         #             mask = pil2tensor(mask)
 
         return img, mask
-
 
